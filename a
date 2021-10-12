@@ -30,7 +30,7 @@ print("tu edad a la mitad es: ", edad)
 edad = 21
 #volver a calculkar la mitad de la edad pero solo dejar la parte entera
 edad //= 2
-print("tu edad a la mitad es: ", edad)
+print("tu edad a la mitad es: ", edad) 
 #en la mayoruia de los lenguajes no permite operaciones entre diferentes tipos
 #de datos, en python
 
